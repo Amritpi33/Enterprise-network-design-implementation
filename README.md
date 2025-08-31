@@ -51,11 +51,12 @@ See [`validation/README.md`](validation/README.md) for the exact checklist and *
 Add screenshots of successful pings, `show standby brief`, `show etherchannel summary`, `show vlan brief`, and web browsing.
 
 ## Artifacts
-- [`pkt/company-network-design.pkt`](pkt/company-network-design.pkt)  ← add your Packet Tracer file here
-- [`topology/`](topology)  ← exported topology images
-- [`addressing/subnet-plan.csv`](addressing/subnet-plan.csv), [`addressing/device-ip-plan.csv`](addressing/device-ip-plan.csv)
-- [`configs/`](configs)  ← sanitized router/switch configs
-- [`screenshots/`](screenshots)  ← pings, traceroutes, show commands, web test
+- [Final Packet Tracer File](CPNT_Project_Part-2_Final[1]%20(2).pkt)
+- [Topology Diagram – Part 1](topology-part1.png)
+- [Topology Diagram – Part 2](topology-part2.png)
+- [Subnet Plan](subnet-plan.csv)
+- [Device IP Plan](device-ip-plan.csv)
+
 
 ## What I Learned
 - Applying VLSM at scale and planning for growth
